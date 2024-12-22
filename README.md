@@ -1,2 +1,2 @@
 # Logistic_regression_practice
-just practice hellow world
+square root of first 100 integers
